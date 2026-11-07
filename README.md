@@ -1,6 +1,6 @@
 # homebrew-scarab
 
-Homebrew tap for [Scarab](https://github.com/raibid-labs/scarab).
+Homebrew tap for Scarab, a terminal from raibid-labs. The source repo is private until v2.
 
 **There is no release yet.** Scarab is being rebuilt as v2, a semantic terminal on herdr-core. This tap will get a formula when v2 has its first release.
 
